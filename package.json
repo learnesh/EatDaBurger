@@ -1,0 +1,21 @@
+  "name": "EatDaBurger",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learnesh/EatDaBurger"
+  ],
+  "author": "Sarah Learner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learnesh/EatDaBurger/issues"
+  },
+  "homepage": "https://github.com/learnesh/EatDaBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
