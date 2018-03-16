@@ -1,0 +1,126 @@
+#burger-image {
+    width: 100%;
+}
+.jumbotron{
+    background-color: black;
+    width: 100%;
+
+}
+
+#jumbotron-text {
+    margin-left: 10%;
+    color: rgba(255, 0, 0, 0.63);
+    font-family: 'Oswald';
+}
+
+#jumbohr{
+    width: 60%;
+    border: solid 2px;
+    color: white;
+    
+}
+
+body {
+    background-color: black;
+}
+
+.body-text {
+    font-family: "Oswald", Arial, Mina, sans-serif;
+    color: rgb(153, 129, 9);
+    font-weight: 700;
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 2%;
+    
+}
+
+.devourburger{
+    font-style: italic;
+    font-weight: 700;
+    margin-bottom: 4%;
+    background-color: rgba(255, 254, 253, 0.918);
+    
+}
+
+.delete {
+    font-style: italic;
+    font-weight: 700;
+    margin-bottom: 4%;
+    background-color: rgba(255, 254, 253, 0.918);
+}
+
+
+.h2hr{
+    width: 23%;
+    border: solid 1px;
+    /* color: rgb(39, 36, 36); */
+    color: red;
+}
+
+.form-group {
+    margin-left: 30%;
+}
+
+.input-container {
+    margin-left:10%;
+}
+
+.submit-container{
+    margin-right: 10%;
+    padding: 10px 5px;
+    border-radius: 50%;
+}
+
+button:hover{
+    background-color: yellow(226, 164, 94);
+    color: blue;
+}
+
+.instruction-container{
+    margin-right: 10%;
+}
+.text{
+    font-family: 'Oswald' Ariel;
+    font-style: italic;    
+    color: rgba(255, 0, 0, 0.63);
+}
+
+.h2text {
+    text-align: center;
+    /* color: white; */
+    color: rgba(255, 0, 0, 0.63);
+    
+}
+
+.add-text {
+    margin-top: 2%;
+    font-family: 'Monseratt';
+    font-size: 24px;
+    color: white;
+}
+
+.submit-text {
+    color: black;
+    font-size: 20px;
+    font-weight: 700;    
+    font-family:  Comic-sans, Helvetica, sans-serif;
+    
+}
+
+.instruction-text {
+    color: white;
+    font-size: 14px;
+}
+
+#addburger{
+    background-color: white(238, 194, 118);
+}
+
+
+ul {
+    text-align: center;
+}
+
+.panel{
+    background-color: white;
+}
